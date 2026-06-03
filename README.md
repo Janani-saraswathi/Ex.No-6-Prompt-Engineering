@@ -12,5 +12,8 @@ Analyze the response and the Output.
 
 The aim is to understand how to request help from AI tools for tasks like writing Python code, integrating with APIs, comparing outputs, and generating actionable insights.
 
+OUTPUT:
+https://docs.google.com/document/d/1z1FNbKXOFgjfoowHtzqH1aoOTjE0CevD/edit?usp=sharing&ouid=115434209074442153787&rtpof=true&sd=true
+
 
 Result: 
